@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Login Page</h1>
+    <h1>Tempat Login</h1>
     <div class="flex flex-col gap-2">
       <input
         type="text"

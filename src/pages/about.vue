@@ -1,3 +1,4 @@
 <template>
-  <div>About Page</div>
+  <div>Tempat About</div>
 </template>
+
